@@ -1,5 +1,5 @@
 # Name:Gowri Sankari R(212223060073)
-# Exp:11 Hardware-Experiment
+# Hardware-Experiment
 ### Ideal sampling
 ![Ideal Sampling](https://github.com/user-attachments/assets/c4d87768-af1e-4f20-b694-e8d653aa226b)
 ### Natural Sampling
